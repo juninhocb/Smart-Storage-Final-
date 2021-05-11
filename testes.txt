@@ -1,0 +1,42 @@
+
+{
+    "nome": "Marcela ",
+    "endereco":"Usuario de Teste" ,
+    "bloco": "A",
+    "ap": 100}
+{
+    "nome": "Maria da Silva Pontes",
+    "endereco":"Rua Salim Farah Maluf" ,
+    "bloco": "C",
+    "ap": 500}
+
+{
+    "nome": "Mauricio de Souza",
+    "endereco":"Rua Bartolomeu Paes" ,
+    "bloco": "B",
+    "ap": 250,
+    "email": "juninhocb@hotmail.com"	}
+
+{
+    "imagem": "Etiqueta3.png"}
+
+
+{
+    "nome": "Carlos Alberto Silva",
+    "endereco":"Rua São Bento" ,
+    "bloco": "C",
+    "ap": 322,
+    "email": "juninhocb@hotmail.com"}
+
+{
+    "imagem": "Etiqueta1.png"}
+
+{
+    "nome": "Petterson Freitas Rocha",
+    "endereco":"Rua Coronel Antônio dos Anjos" ,
+    "bloco": "A",
+    "ap": 105,
+    "email": "juninhocb@hotmail.com"}
+
+{
+    "imagem": "Etiqueta2.png"}
